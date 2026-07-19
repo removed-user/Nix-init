@@ -1,0 +1,3 @@
+[submodule "nix_env_vars"]
+	path = nix_env_vars
+	url = https://github.com/removed-user/nix_env_vars.git
